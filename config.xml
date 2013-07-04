@@ -20,6 +20,6 @@
 	<icon src="assets/images/ico57.png" gap:platform="ios" width="57" height="57" />
 	<icon src="assets/images/ico72.png" gap:platform="ios" width="72" height="72" />
 	<icon src="assets/images/ico114.png" gap:platform="ios" width="114" height="114" />
-	<gap:splash src="assets/images/startup.jpg" />
+	<gap:splash src="assets/images/startup.png" />
     <access origin="*.pushwoosh.com"/>
 </widget>
