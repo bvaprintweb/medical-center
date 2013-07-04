@@ -16,9 +16,10 @@
 	<preference name="splash-screen-duration" value="5000" />
 	<preference name="load-url-timeout" value="60000" />
 	<preference name="webviewbounce" value="false" />
-	<icon src="assets/images/appicons/iphone4.png" />
-	<icon src="assets/images/appicons/iphone.png" gap:platform="ios" width="57" height="57" />
-	<icon src="assets/images/appicons/ipad.png" gap:platform="ios" width="72" height="72" />
-	<icon src="assets/images/appicons/iphone4.png" gap:platform="ios" width="114" height="114" />
-	<gap:splash src="assets/images/startup/splash.png" />
+	<icon src="assets/images/ico57.png" />
+	<icon src="assets/images/ico57.png" gap:platform="ios" width="57" height="57" />
+	<icon src="assets/images/ico72.png" gap:platform="ios" width="72" height="72" />
+	<icon src="assets/images/ico114.png" gap:platform="ios" width="114" height="114" />
+	<gap:splash src="assets/images/startup.jpg" />
+    <access origin="*.pushwoosh.com"/>
 </widget>
